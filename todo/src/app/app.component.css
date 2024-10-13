@@ -1,0 +1,11 @@
+.container{
+    border: 1px solid black;
+}
+.nav{
+    /* border: 1px solid #000; */
+    display: flex;
+    justify-content: space-between;
+}
+.addTask{
+    padding: 5px;
+}
